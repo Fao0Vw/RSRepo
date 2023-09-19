@@ -1,5 +1,5 @@
 # Git commands
-## Commiting and pushing updates
+## Commiting and pushing changes
 1. `git add ." or "-A"` for __added__ files to tracking 
 2. `git commit -m 'init; update'`
 3. `git push origin 'branch name'`  for __send__ commit on GitServer

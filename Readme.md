@@ -12,7 +12,7 @@
 * `git pull origin 'branch name' ` for __update__ branch from server and merge with current branch 
 
 ## Work with another banch 
-1. `git checkout '-b' 'BanchName'` for __create__ (use prefix -b) or __jump to banch__
+1. `git checkout '-b' 'BranchName'` for __create__ (use prefix -b) or __jump to banch__
 2. `git fetch` for __dowloading commits__ from banch to local repos
 
 ### Git Doc
